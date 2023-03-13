@@ -1,0 +1,10 @@
+.vh75 {
+    object-fit: cover;
+    height: 75vh;
+}
+
+.vh85 {
+    object-fit: cover;
+    height: 85vh;
+}
+
